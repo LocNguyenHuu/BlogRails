@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Posttitle:</strong>
+  <%= @post.PostTitle %>
+</p>
+
+<p>
+  <strong>Postdate:</strong>
+  <%= @post.PostDate %>
+</p>
+
+<p>
+  <strong>Deleted:</strong>
+  <%= @post.Deleted %>
+</p>
+
+<p>
+  <strong>Ownerid:</strong>
+  <%= @post.OwnerID %>
+</p>
+
+<%= link_to 'Edit', edit_post_path(@post) %> |
+<%= link_to 'Back', posts_path %>

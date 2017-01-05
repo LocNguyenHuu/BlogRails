@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Comment: MyString
+  CommenterID: 1
+  CommentDate: 2017-01-03
+  Deleted: 1
+
+two:
+  Comment: MyString
+  CommenterID: 1
+  CommentDate: 2017-01-03
+  Deleted: 1

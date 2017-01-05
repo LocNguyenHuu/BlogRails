@@ -1,0 +1,1 @@
+json.partial! "post_details/post_detail", post_detail: @post_detail

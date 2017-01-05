@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PostTitle: MyString
+  PostDate: 2017-01-03
+  Deleted: 1
+  OwnerID: 1
+
+two:
+  PostTitle: MyString
+  PostDate: 2017-01-03
+  Deleted: 1
+  OwnerID: 1

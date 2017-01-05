@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  UserName: MyString
+  UserEmail: MyString
+  CreateDate: 2017-01-03
+  Active: 1
+
+two:
+  UserName: MyString
+  UserEmail: MyString
+  CreateDate: 2017-01-03
+  Active: 1
